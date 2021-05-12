@@ -1,4 +1,4 @@
-# Fruit_Ninja_Replica
+# Fruit Ninja Replica
 
 ![platform](https://img.shields.io/badge/Platform-Unity-yellow.svg)
 ![Language](https://img.shields.io/badge/Language-C%23-orange.svg)
